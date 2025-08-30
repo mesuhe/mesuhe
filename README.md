@@ -3,7 +3,7 @@
 
 ---
 
-### **About Me:**
+### :wave: **About Me:** 
 
 ###### Curious | Analytical | Adaptable
 
@@ -17,7 +17,7 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 
 ---
 
-### **Technical Skills:**
+### :star2: **Technical Skills:** 
 
 - **Programming -** Python (Pandas, Pg8000)
 - **Cloud –** AWS (EC2, Lambda, RDS, S3, CloudWatch, IAM, EventBridge, SDK, Athena, Glue, Step Functions), AWS API usage via command line
@@ -31,7 +31,7 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 
 ---
 
-### **Technical Experience:**
+### :computer: **Technical Experience:**
 
 ##### Northcoders - Data Engineering Bootcamp in Python
 ###### Python | AWS | Terraform | PSQL | Pandas
@@ -54,10 +54,9 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 
 ---
 
-### **Projects:**
+### :open_file_folder: **Projects:**
 
 ##### Northcoders - ETL Group Project
-
 ###### AWS | Terraform | Python | PSQL | Pandas
 
 - Designed and implemented automated ETL pipeline that reliably extracts and stores raw tables from operational database, transforms them into well-structured dimension and fact tables, and loads them into OLAP data warehouse
