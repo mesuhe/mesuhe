@@ -1,10 +1,14 @@
 # <center>**Meral Hewitt**</center>
-###### <center>**MEng | Junior Data Analyst | Python**</center>
 
+---
+
+##### <center>**MEng | Junior Data Analyst | Python**</center>
+
+---
 
 ### About Me 👋
----
-###### Curious | Analytical | Adaptable
+
+##### Curious | Analytical | Adaptable
 
 Architecture and Environmental Design graduate who enjoys using data to understand how and why things work. Currently seeking junior/graduate role in the data industry. Eager to make valuable contributions whilst also maximising personal and professional development.
 
@@ -14,9 +18,12 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 - Friendly, confident and adaptable, with excellent communication skills
 - Strong mathematical ability and logical problem solver
 
-### Technical Experience
+
 ---
-###### Northcoders - Data Engineering Bootcamp in Python
+
+### Technical Experience
+
+##### Northcoders - Data Engineering Bootcamp in Python
 
 - 13 week full time bootcamp
 - Developed strong fundamental understanding of python programming including TDD and functional and object-oriented programming paradigms
@@ -25,8 +32,10 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 - Applied key DevOps skills and methodologies to work effectively in team of 6 to develop a realistic data application over 3 weeks
 - See Projects section for ETL Group Project (AWS, Terraform, Python, PSQL, Pandas)
 
-### Projects
 ---
+
+### Projects
+
 ###### Northcoders - ETL Group Project
 
 AWS | Terraform | Python | PSQL | Pandas
