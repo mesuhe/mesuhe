@@ -56,7 +56,7 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 
 ### :open_file_folder: **Projects:**
 
-##### Northcoders - ETL Group Project
+##### Northcoders - [ETL Group Project](https://github.com/mesuhe/northcoders-etl-project-msh/blob/main/README.md)
 ###### AWS | Terraform | Python | PSQL | Pandas
 
 - Designed and implemented automated ETL pipeline that reliably extracts and stores raw tables from operational database, transforms them into well-structured dimension and fact tables, and loads them into OLAP data warehouse
