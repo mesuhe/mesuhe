@@ -3,7 +3,8 @@
 
 
 ### About Me 👋
-#### Curious | Analytical | Adaptable
+---
+###### Curious | Analytical | Adaptable
 
 Architecture and Environmental Design graduate who enjoys using data to understand how and why things work. Currently seeking junior/graduate role in the data industry. Eager to make valuable contributions whilst also maximising personal and professional development.
 
@@ -14,7 +15,8 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 - Strong mathematical ability and logical problem solver
 
 ### Technical Experience
-#### Northcoders - Data Engineering Bootcamp in Python
+---
+###### Northcoders - Data Engineering Bootcamp in Python
 
 - 13 week full time bootcamp
 - Developed strong fundamental understanding of python programming including TDD and functional and object-oriented programming paradigms
@@ -24,7 +26,8 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 - See Projects section for ETL Group Project (AWS, Terraform, Python, PSQL, Pandas)
 
 ### Projects
-#### Northcoders - ETL Group Project
+---
+###### Northcoders - ETL Group Project
 
 AWS | Terraform | Python | PSQL | Pandas
 
