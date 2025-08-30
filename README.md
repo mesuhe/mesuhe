@@ -1,5 +1,5 @@
 # <center>**Meral Hewitt**</center>
-#### <center>**MEng | Junior Data Analyst | Python**</center>
+###### <center>**MEng | Junior Data Analyst | Python**</center>
 
 
 ### About Me 👋
@@ -13,7 +13,7 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 - Friendly, confident and adaptable, with excellent communication skills
 - Strong mathematical ability and logical problem solver
 
-### Technical Experience 👋
+### Technical Experience
 #### Northcoders - Data Engineering Bootcamp in Python
 
 - 13 week full time bootcamp
@@ -23,21 +23,21 @@ Architecture and Environmental Design graduate who enjoys using data to understa
 - Applied key DevOps skills and methodologies to work effectively in team of 6 to develop a realistic data application over 3 weeks
 - See Projects section for ETL Group Project (AWS, Terraform, Python, PSQL, Pandas)
 
-<!--
+### Projects
+#### Northcoders - ETL Group Project
 
 AWS | Terraform | Python | PSQL | Pandas
 
-• Designed and implemented automated ETL pipeline that reliably extracts and stores raw tables from operational database, transforms them into well-structured dimension and fact tables, and loads them into OLAP data warehouse
+- Designed and implemented automated ETL pipeline that reliably extracts and stores raw tables from operational database, transforms them into well-structured dimension and fact tables, and loads them into OLAP data warehouse
+- Built complex architecture using >50 terraform-deployed AWS resources to set up, execute, log and monitor application
+- Implemented infrastructure-as-code and CI/CD techniques, using Makefile and yml files with GitHub Actions to test for PEP8 compliance and python code quality, validity and security before deployment
+- Managed secure credential storage through GitHub Secrets and sensitive Terraform variables
+- Followed Agile methodology and used Git for version control, to ensure collaborative workflow
+- Utilised project management skills and natural leadership ability to facilitate efficient and effective teamwork, and successfully produce viable product by deadline
 
-• Built complex architecture using >50 terraform-deployed AWS resources to set up, execute, log and monitor application
+<!--
 
-• Implemented infrastructure-as-code and CI/CD techniques, using Makefile and yml files with GitHub Actions to test for PEP8 compliance and python code quality, validity and security before deployment
 
-• Managed secure credential storage through GitHub Secrets and sensitive Terraform variables
-
-• Followed Agile methodology and used Git for version control, to ensure collaborative workflow
-
-• Utilised project management skills and natural leadership ability to facilitate efficient and effective teamwork, and successfully produce viable product by deadline
 **mesuhe/mesuhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
